@@ -9,7 +9,7 @@
 
 ## Requirements
 - [Python 3.6+](https://www.python.org/downloads/)
-### These are install automatically if not present.
+### These install automatically if not present.
 - [customtkinter](https://pypi.org/project/customtkinter/)
 - [requests](https://pypi.org/project/requests/)
 - [Pillow](https://pypi.org/project/Pillow/)
